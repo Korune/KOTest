@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D09BEAF1F17C67300754C68 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEA71F17C67300754C68 /* 2.png */; };
+		5D09BEB01F17C67300754C68 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEA81F17C67300754C68 /* 3.png */; };
+		5D09BEB11F17C67300754C68 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEA91F17C67300754C68 /* 4.png */; };
+		5D09BEB21F17C67300754C68 /* 5.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEAA1F17C67300754C68 /* 5.1.png */; };
+		5D09BEB31F17C67300754C68 /* 5.2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEAB1F17C67300754C68 /* 5.2.png */; };
+		5D09BEB41F17C67300754C68 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEAC1F17C67300754C68 /* 6.png */; };
+		5D09BEB51F17C67300754C68 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEAD1F17C67300754C68 /* 7.png */; };
+		5D09BEB61F17C67300754C68 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D09BEAE1F17C67300754C68 /* 8.png */; };
 		5D115A0F1F16D35E002058FF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D115A0E1F16D35E002058FF /* main.m */; };
 		5D115A121F16D35E002058FF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D115A111F16D35E002058FF /* AppDelegate.m */; };
 		5D115A151F16D35E002058FF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D115A141F16D35E002058FF /* ViewController.m */; };
@@ -35,6 +43,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D09BEA71F17C67300754C68 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		5D09BEA81F17C67300754C68 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		5D09BEA91F17C67300754C68 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		5D09BEAA1F17C67300754C68 /* 5.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.1.png; sourceTree = "<group>"; };
+		5D09BEAB1F17C67300754C68 /* 5.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.2.png; sourceTree = "<group>"; };
+		5D09BEAC1F17C67300754C68 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		5D09BEAD1F17C67300754C68 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		5D09BEAE1F17C67300754C68 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
 		5D115A0A1F16D35E002058FF /* KOTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KOTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D115A0E1F16D35E002058FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5D115A101F16D35E002058FF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,9 +94,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D09BEA61F17C67200754C68 /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				5D09BEA71F17C67300754C68 /* 2.png */,
+				5D09BEA81F17C67300754C68 /* 3.png */,
+				5D09BEA91F17C67300754C68 /* 4.png */,
+				5D09BEAA1F17C67300754C68 /* 5.1.png */,
+				5D09BEAB1F17C67300754C68 /* 5.2.png */,
+				5D09BEAC1F17C67300754C68 /* 6.png */,
+				5D09BEAD1F17C67300754C68 /* 7.png */,
+				5D09BEAE1F17C67300754C68 /* 8.png */,
+			);
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 		5D115A011F16D35E002058FF = {
 			isa = PBXGroup;
 			children = (
+				5D09BEA61F17C67200754C68 /* screenshots */,
 				5D115A0C1F16D35E002058FF /* KOTest */,
 				5D115A261F16D35E002058FF /* KOTestTests */,
 				5D115A311F16D35E002058FF /* KOTestUITests */,
@@ -246,9 +278,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D09BEB61F17C67300754C68 /* 8.png in Resources */,
+				5D09BEB21F17C67300754C68 /* 5.1.png in Resources */,
+				5D09BEB11F17C67300754C68 /* 4.png in Resources */,
+				5D09BEB01F17C67300754C68 /* 3.png in Resources */,
+				5D09BEB41F17C67300754C68 /* 6.png in Resources */,
 				5D115A1D1F16D35E002058FF /* LaunchScreen.storyboard in Resources */,
 				5D115A1A1F16D35E002058FF /* Assets.xcassets in Resources */,
+				5D09BEAF1F17C67300754C68 /* 2.png in Resources */,
+				5D09BEB51F17C67300754C68 /* 7.png in Resources */,
 				5D115A181F16D35E002058FF /* Main.storyboard in Resources */,
+				5D09BEB31F17C67300754C68 /* 5.2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +547,7 @@
 				5D115A391F16D35E002058FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D115A3A1F16D35E002058FF /* Build configuration list for PBXNativeTarget "KOTestTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +556,7 @@
 				5D115A3C1F16D35E002058FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D115A3D1F16D35E002058FF /* Build configuration list for PBXNativeTarget "KOTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +565,7 @@
 				5D115A3F1F16D35E002058FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
