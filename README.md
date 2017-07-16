@@ -1,4 +1,4 @@
-# KOTest 新建 Xcode 项目并上传到 github 上
+# iOS新建项目，上传到 GitHub 上
 1、下载 GitHub Desktop 客户端，并登陆。
 
 2、点击 Creat New Repository，在弹出界面上填写相关信息。
