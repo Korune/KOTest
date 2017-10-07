@@ -4,7 +4,7 @@
 2、点击 Creat New Repository，在弹出界面上填写相关信息。
 ![Image text](https://raw.githubusercontent.com/Korune/KOTest/master/screenshots/2.png)
 
-3、使用 Xcode 在本地其他 Local Path 新建与上面 Name 一样的同名项目。勾选和不勾选 Create Git repository on My Mac 都一样，因为用到的是  GitHub Desktop 创建的 repository。
+3、使用 Xcode（Xcode 8.x版本）在本地其他 Local Path 新建与上面 Name 一样的同名项目。勾选和不勾选 Create Git repository on My Mac 都一样，因为用到的是  GitHub Desktop 创建的 repository。
 ![Image text](https://raw.githubusercontent.com/Korune/KOTest/master/screenshots/3.png)
 
 4、将新建项目的文件，拖动到 GitHub Desktop 创建的 repository 文件夹中：

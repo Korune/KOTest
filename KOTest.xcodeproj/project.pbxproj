@@ -23,6 +23,7 @@
 		5D115A1D1F16D35E002058FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D115A1B1F16D35E002058FF /* LaunchScreen.storyboard */; };
 		5D115A281F16D35E002058FF /* KOTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D115A271F16D35E002058FF /* KOTestTests.m */; };
 		5D115A331F16D35E002058FF /* KOTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D115A321F16D35E002058FF /* KOTestUITests.m */; };
+		5D6D22B11F88711F00B22DE1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5D6D22B01F88711F00B22DE1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		5D115A2E1F16D35E002058FF /* KOTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KOTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D115A321F16D35E002058FF /* KOTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KOTestUITests.m; sourceTree = "<group>"; };
 		5D115A341F16D35E002058FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D6D22B01F88711F00B22DE1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		5D115A011F16D35E002058FF = {
 			isa = PBXGroup;
 			children = (
+				5D6D22B01F88711F00B22DE1 /* README.md */,
 				5D09BEA61F17C67200754C68 /* screenshots */,
 				5D115A0C1F16D35E002058FF /* KOTest */,
 				5D115A261F16D35E002058FF /* KOTestTests */,
@@ -284,6 +287,7 @@
 				5D09BEB01F17C67300754C68 /* 3.png in Resources */,
 				5D09BEB41F17C67300754C68 /* 6.png in Resources */,
 				5D115A1D1F16D35E002058FF /* LaunchScreen.storyboard in Resources */,
+				5D6D22B11F88711F00B22DE1 /* README.md in Resources */,
 				5D115A1A1F16D35E002058FF /* Assets.xcassets in Resources */,
 				5D09BEAF1F17C67300754C68 /* 2.png in Resources */,
 				5D09BEB51F17C67300754C68 /* 7.png in Resources */,
